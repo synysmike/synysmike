@@ -4,6 +4,16 @@
 
 ###
 
+<h2 align="center">Welcome to Ir.Teguh's Galleries</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="makima_horor.gif"  />
+</div>
+
+###
+
 <div align="center">
   <a href="www.linkedin.com/in/ir-teguh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -24,14 +34,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/synysmike/synysmike/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=synysmike&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=synysmike&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=synysmike&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=synysmike&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=synysmike&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
