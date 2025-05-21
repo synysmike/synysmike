@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="makima_horor.gif"  />
+  <img height="500" src="makima_horor.gif"  />
 </div>
 
 ###
